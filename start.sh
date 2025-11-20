@@ -11,7 +11,7 @@ export ARGO_DOMAIN=${ARGO_DOMAIN:-''} # 隧道域名
 export TG=${TG:-''} 
 
 # =======节点上传订阅服务器
-export SUB_URL=${SUB_URL:-''} 
+export SUB_URL=${SUB_URL:-'https://uploadcww.zzdccww.dpdns.org/upload-uploadcww'} 
 # 订阅服务器搭建  https://github.com/dsadsadsss/workers-sub-for-wanju.git
 
 # =======哪吒相关设置，支持V0和V1
